@@ -1,0 +1,3 @@
+torch
+numpy
+qc-qst-client # Just filling standard, but sticking to basics
