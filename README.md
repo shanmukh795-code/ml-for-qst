@@ -13,5 +13,3 @@ This project implements a Transformer-based neural network to reconstruct the qu
 - NumPy
 - Qutip (optional, for verification)
 
-## Usage
-(Instructions to be added)
